@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(19, 14, 9);
+}
+
+.Head{
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.textinp{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.main{
+    
+    margin: auto;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
+.textinp input{
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.textinp button{
+    border-radius: 15px;
+    padding: 10px;
+}
+li{
+    margin-left: 50px;
+    color: aliceblue;
+}
+.del{
+    border-radius: 10px;
+    padding: 5px;
+}
+.Completed {
+    text-decoration: line-through;
+    color: white; 
+}
